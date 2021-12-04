@@ -1,0 +1,11 @@
+Height=4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+4 9 13 21 27 32 36 54 63 68 78 85 89 97 8523 
+6 23 45 65 83 87 98 
+12 28 73 91 
+56 

@@ -1,0 +1,7 @@
+Degree=5
+Level 1
+Level 1
+Level 4
+Level 6
+Level 3
+Level 2
